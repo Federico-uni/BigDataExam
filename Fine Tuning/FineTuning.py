@@ -25,7 +25,7 @@ os.makedirs(TOKENIZER_DIR, exist_ok=True)
 # =========================================================
 # DATASET
 # =========================================================
-cartella = "C:/Users/Tesisti/Desktop/Final_dataset"
+cartella = "path"
 
 TRAIN_FILES = []
 for nome_file in os.listdir(cartella):
