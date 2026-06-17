@@ -29,7 +29,7 @@ OUT_DIR = "./ft_llama31_8b_lora"
 os.makedirs(OUT_DIR, exist_ok=True)
 
 
-PDF_DIR = r"C:/Users/Tesisti/Desktop/Dataset_Rag"
+PDF_DIR = r"pdf dir"
 
 EMBED_MODEL = "sentence-transformers/paraphrase-multilingual-mpnet-base-v2"
 BERTSCORE_MODEL = "roberta-large"
@@ -38,7 +38,7 @@ CHUNK_SIZE = 1200
 CHUNK_OVERLAP = 200
 TOP_K = 2
 MAX_CONTEXT_CHARS = 5000
-OUTPUT_CSV = "C:/Users/Tesisti/Desktop/OUTPUT_IT_Dataset/rag_results_bertscore_doSampleFALSE_ModelloBase.csv"
+OUTPUT_CSV = "output_dir"
 
 # =========================
 # TRADUZIONE
