@@ -1,0 +1,251 @@
+question,answer,bert_precision,bert_recall,bert_f1,retrieved_chunks
+Can you extract a list of the steps required to carry out the Lavoisier's law experiment and verify the principle of conservation of mass?,Not available in the provided context.,0.8311142325401306,0.7310513257980347,0.7778781056404114,Esperimento_1_Scienze_della_vita.pdf | p1 | score=0.6486 || Esperimento_1_Scienze_della_vita.pdf | p2 | score=0.5325
+What is the objective of the Lavoisier's law experiment regarding the conservation of mass in the reaction between zinc and hydrochloric acid?,"The objective of the experiment is to verify the law of conservation of mass (Lavoisier's law), which states that ""in a chemical reaction, the sum of the masses of the reactants is equal to the sum of the masses of the products.""
+
+The law of conservation of mass states that matter can neither be created nor destroyed. This means that the total mass of a system remains constant throughout a chemical reaction. In the case of the reaction between zinc and hydrochloric acid, the law of conservation of mass is verified because the total mass of the system (zinc + hydrochloric acid) is equal to the total mass of the products (zinc chloride + hydrogen).
+
+The objective of the experiment is to demonstrate this principle and show that the mass of the reactants is equal to the mass of the products.",0.8804383873939514,0.7821797132492065,0.8284055590629578,Esperimento_1_Scienze_della_vita.pdf | p2 | score=0.6800 || Esperimento_1_Scienze_della_vita.pdf | p1 | score=0.5974
+"I carried out the experiment leaving the flask open during the reaction between zinc crystals and hydrochloric acid: is this correct? If not, what should I correct to perform the experiment properly?",You have to leave the flask closed during the experiment.,0.8975216150283813,0.7504322528839111,0.8174126148223877,Esperimento_1_Scienze_della_vita.pdf | p2 | score=0.6717 || saggio-fiamma_libro_zanichelli.pdf | p1 | score=0.5279
+"How can I correctly complete the experiment using a flask, zinc, and hydrochloric acid to verify that the total mass remains constant according to Lavoisier's law?","The correct answer is:
+STEP 1: Flask with zinc crystals closed with a perforated stopper and a dropper containing hydrochloric acid",0.8907997608184814,0.7580486536026001,0.8190801739692688,Esperimento_1_Scienze_della_vita.pdf | p1 | score=0.6506 || Esperimento_1_Scienze_della_vita.pdf | p2 | score=0.6297
+"Can you extract a list of the steps required to carry out the digital multimeter experiment and correctly measure resistance, voltage, and current?","1. Turn on the digital multimeter.
+2. Set the digital multimeter to the appropriate range.
+3. Connect the red probe plug into the bottom right socket (labeled VΩ) and the black probe plug into the COM socket.
+4. To measure the potential difference across a 5V battery, select the appropriate range so that it is not too large compared to the value to be measured (in this case 20V).
+5. Connect the red probe (+) to the positive terminal of the battery and the black probe (−) to the negative terminal of the battery.
+6. To measure the current intensity, insert the black probe plug into the COM socket and the red probe plug into the second socket at the bottom left (labeled A).
+7. After selecting the appropriate range, connect the probes to the battery as in the previous measurement and observe the change in the displayed value.
+8. To measure the resistance, insert the black probe plug into the COM socket and the red probe plug into the third socket at the bottom left (labeled Ω).
+9. After selecting the appropriate range, connect the probes to the resistor and observe the change in the displayed value.
+10. To measure the current intensity, insert the black probe plug into the COM socket and the red probe plug into the second socket at the bottom left (labeled A).
+11. After selecting the appropriate range, connect the probes to the battery and observe the change in the displayed value.
+12. To measure the resistance, insert the black probe plug into the COM socket and the red probe plug into the third socket at the bottom left (labeled Ω).
+13. After selecting the appropriate range, connect the probes to the resistor and observe the change in the displayed value.
+14. To measure the current intensity, insert the black probe plug into the COM socket and the red probe plug into the second socket at the bottom left (labeled A).
+15. After selecting the appropriate range, connect the probes to the battery and observe the change in the displayed value.
+16. To measure the resistance, insert the black probe plug into the COM socket and the red probe plug into the third socket at the bottom left (labeled Ω).
+17. After selecting the appropriate range, connect the probes to the resistor and observe the change in the displayed value.
+18. To measure the current intensity, insert the black probe plug into the COM socket and the red probe plug into the second socket at the bottom left (",0.8795809745788574,0.8217856884002686,0.8497017025947571,Esperimento_Elettricita.pdf | p1 | score=0.7976 || Esperimento_Elettricita.pdf | p2 | score=0.6915
+"What is the objective of the digital multimeter experiment regarding the measurement of resistance, voltage (potential difference), and current intensity?","The objective of the digital multimeter experiment is to become familiar with the use of the available digital multimeter by performing practical measurements of resistance, voltage (or potential difference), and current intensity.",0.9267768859863281,0.7640200853347778,0.837565004825592,Esperimento_Elettricita.pdf | p1 | score=0.7801 || Esperimento_Elettricita.pdf | p2 | score=0.6772
+"I carried out the experiment by measuring the resistance of a component while it was still powered: is this correct? If not, what should I correct to perform the experiment properly?",,0.0,0.0,0.0,Esperimento_Elettricita.pdf | p1 | score=0.5962 || Esperimento_Elettricita.pdf | p2 | score=0.5587
+"How can I correctly complete the experiment using a digital multimeter, probes, and a battery to measure voltage, current, and resistance accurately?","First, ensure that the multimeter is set to the appropriate range for the measurement you want to perform. For example, if you want to measure voltage, set the multimeter to the voltage range (VΩ). Then, connect the red probe to the positive terminal of the battery and the black probe to the negative terminal. If you want to measure current, connect the red probe to the COM socket and the black probe to the second socket at the bottom left (labeled A). For resistance, connect the red probe to the top left socket (labeled Ω) and the black probe to the COM socket. Make sure that the probes are securely connected to the battery and the multimeter before taking any readings.",0.8824248909950256,0.7955939769744873,0.8367629051208496,Esperimento_Elettricita.pdf | p1 | score=0.7539 || Esperimento_Elettricita.pdf | p2 | score=0.7450
+Can you extract a list of the steps required to carry out the plant cell observation experiment and compare the structure of onion and orchid cells under a microscope?,"STEP 1: Slice of white onion cut 
+STEP 2: Epidermis sample placed on a microscope slide 
+STEP 3: Staining of the epidermis sample with dye solution 
+STEP 4: Observation of the sample with the second cover slip 
+(Magnification: 40x)",0.9242995977401733,0.8068958520889282,0.8616167306900024,Esperimento_Biologia_modificato.pdf | p1 | score=0.7372 || Esperimento_Biologia_modificato.pdf | p2 | score=0.6510
+What is the objective of the plant cell experiment regarding the comparison between onion cells and Orchid Phalaenopsis cells observed under a microscope?,To compare the structure of two different plant cells observed under a microscope.,0.9137405753135681,0.7509626150131226,0.8243932127952576,Esperimento_Biologia_modificato.pdf | p2 | score=0.6544 || Esperimento_Biologia_modificato.pdf | p1 | score=0.6438
+"I carried out the experiment placing the cover slip without paying attention to air bubbles during the preparation of the onion epidermis sample: is this correct? If not, what should I correct to perform the experiment properly?","The experiment should be repeated by paying attention to air bubbles, which would prevent clear observation under the microscope.",0.9001595377922058,0.7585963010787964,0.8233372569084167,Esperimento_Biologia_modificato.pdf | p2 | score=0.6779 || Esperimento_Biologia_modificato.pdf | p1 | score=0.6093
+"How can I correctly complete the experiment using a microscope, slides, onion epidermis, and methylene blue to observe and compare plant cells accurately?","To correctly complete the experiment using a microscope, slides, onion epidermis, and methylene blue to observe and compare plant cells accurately, follow these steps:
+
+1. Prepare the microscope and slides: Clean the microscope lens and slides with lens paper or a soft cloth. Ensure that the microscope is set up correctly, with the eyepiece and objective lenses in place.
+2. Prepare the onion epidermis: Peel a layer of onion epidermis from a fresh onion and cut it into small pieces. Place the pieces on a clean slide and cover them with a drop of distilled water.
+3. Stain the onion epidermis: Add a few drops of methylene blue solution to the slide containing the onion epidermis. Use a dropper or a pipette to apply the stain evenly over the sample. Allow the stain to soak into the epidermis for a few minutes.
+4. Observe the onion epidermis under the microscope: Place a second clean slide on top of the stained onion epidermis and cover it with a cover slip. Use the microscope to observe the stained onion epidermis at low and high magnifications.
+5. Compare the onion epidermis with other plant cells: Repeat steps 2-4 using other plant cells, such as leaf cells from a different plant species. Observe and compare the different plant cells under the microscope.
+
+Remember to follow all safety precautions when handling chemicals and to dispose of the used materials properly.
+
+Explanation:
+To observe and compare plant cells accurately, it is important to use a microscope, slides, onion epidermis, and methylene blue. The onion epidermis is a good model to study plant cells because it is thin and transparent, allowing for easy observation of cell structures.
+
+To start the experiment, prepare the microscope and slides by cleaning the lenses and ensuring that the microscope is set up correctly. Peel a layer of onion epidermis from a fresh onion and cut it into small pieces. Place the pieces on a clean slide and cover them with a drop of distilled water.
+
+Next, add a few drops of methylene blue solution to the slide containing the onion epidermis. Methylene blue is a dye that stains cell structures, making them easier to observe under the microscope. Allow the stain to soak into the epidermis for a few minutes.
+
+Place a second clean slide on top of the stained onion epidermis and cover it with a cover slip. Use the microscope to observe the stained",0.8479982018470764,0.8016966581344604,0.8241976499557495,Esperimento_Biologia_modificato.pdf | p1 | score=0.7487 || Esperimento_Biologia_modificato.pdf | p2 | score=0.7244
+Can you extract a list of the steps required to carry out the magnet experiment and observe the interaction between magnetic poles?,"1. Take two magnets and hold them in your hands.
+2. Bring the magnets close together, holding them firmly with your fingers.
+3. Observe the behavior of the magnets as you bring them closer together.
+4. If the magnets are attracted to each other, they have opposite poles.
+5. If the magnets are repelled from each other, they have like poles.
+6. Repeat the experiment by flipping one of the magnets to its opposite pole.
+7. Observe the behavior of the magnets as you bring them closer together again.
+8. If the magnets are attracted to each other, they have opposite poles.
+9. If the magnets are repelled from each other, they have like poles.
+10. Continue the experiment by flipping one of the magnets to its opposite pole again.
+11. Observe the behavior of the magnets as you bring them closer together once more.
+12. If the magnets are attracted to each other, they have opposite poles.
+13. If the magnets are repelled from each other, they have like poles.
+14. Continue the experiment by flipping one of the magnets to its opposite pole once more.
+15. Observe the behavior of the magnets as you bring them closer together once more.
+16. If the magnets are attracted to each other, they have opposite poles.
+17. If the magnets are repelled from each other, they have like poles.
+18. Continue the experiment by flipping one of the magnets to its opposite pole once more.
+19. Observe the behavior of the magnets as you bring them closer together once more.
+20. If the magnets are attracted to each other, they have opposite poles.
+21. If the magnets are repelled from each other, they have like poles.
+22. Continue the experiment by flipping one of the magnets to its opposite pole once more.
+23. Observe the behavior of the magnets as you bring them closer together once more.
+24. If the magnets are attracted to each other, they have opposite poles.
+25. If the magnets are repelled from each other, they have like poles.
+26. Continue the experiment by flipping one of the magnets to its opposite pole once more.
+27. Observe the behavior of the magnets as you bring them closer together once more.
+28. If the magnets are attracted to each other, they have opposite poles.
+29. If the magnets are repelled from each other, they have like poles.
+30. Continue the experiment by flipping one of the magnets to its opposite",0.8381689786911011,0.7895762920379639,0.8131473064422607,Esperimento_Elettromagnetismo_modificato.pdf | p1 | score=0.8190 || Esperimento_Elettromagnetismo_modificato.pdf | p1 | score=0.5839
+What is the objective of the magnet experiment regarding the interaction between two magnets and their poles?,"The objective of the magnet experiment regarding the interaction between two magnets and their poles is to observe how magnets behave when brought close together.
+
+EXPLANATION:
+The objective of the magnet experiment is to observe how magnets behave when brought close together. This involves observing the interaction between two magnets and their poles. The experiment aims to demonstrate the magnetic properties of magnets and their behavior when they are in close proximity to each other.
+
+The experiment involves bringing two magnets close together, one in each hand, and observing how they interact. The magnets are held with the fingers to feel their behavior. The experiment is repeated by flipping one of the magnets to its opposite pole, such as changing from N to S or vice versa. This allows for the observation of how like poles repel each other and how opposite poles attract each other.
+
+The letters marked on each magnet indicate the poles, with like poles repelling and opposite poles attracting. The experiment demonstrates the magnetic properties of magnets and their behavior when brought close together.",0.8909021615982056,0.814490556716919,0.850984513759613,Esperimento_Elettromagnetismo_modificato.pdf | p1 | score=0.8281 || Esperimento_Elettromagnetismo_modificato.pdf | p1 | score=0.6226
+"I carried out the experiment by bringing the magnets close together without changing their orientation to test different poles: is this correct? If not, what should I correct to perform the experiment properly?","Yes, you have correctly carried out the experiment.",0.8611916303634644,0.7518047094345093,0.8027890920639038,Esperimento_Elettromagnetismo_modificato.pdf | p1 | score=0.7747 || Esperimento_Elettromagnetismo_modificato.pdf | p1 | score=0.6133
+How can I correctly complete the experiment using two magnets to observe the attraction and repulsion between opposite and like poles?,"Step 1: Bring the magnets close together with the opposite poles facing each other. The magnets will attract and stick together.
+Step 2: Flip one of the magnets so that the poles are now facing each other. The magnets will repel each other and push away from each other.
+
+Explanation:
+The attraction and repulsion between magnets is due to their magnetic fields. When two magnets have opposite poles facing each other, their magnetic fields will attract each other and they will stick together. When the magnets have like poles facing each other, their magnetic fields will repel each other and they will push away from each other.
+
+The letters marked on each magnet indicate the poles. The letters N and S indicate the north and south poles respectively. The letters marked on the magnets are not relevant to the experiment and can be ignored.
+
+The temperature of the magnets does not affect the attraction and repulsion between them. The magnets will behave the same way regardless of their temperature.
+
+If the magnets are arranged parallel to each other with the same poles side by side, they will still attract each other if brought closer. However, the attraction will be weaker than when the opposite poles are facing each other.",0.8681118488311768,0.8109122514724731,0.8385376930236816,Esperimento_Elettromagnetismo_modificato.pdf | p1 | score=0.8145 || Esperimento_Elettromagnetismo_modificato.pdf | p1 | score=0.6396
+Can you extract a list of the steps required to carry out the phototropism experiment and observe how plants grow in response to light direction?,"1. Get the seeds from the provider.
+2. Prepare the soil and put it in the containers.
+3. Prepare the containers for the seeds.
+4. Put the seeds in the containers.
+5. Put the containers in the station for photos.
+6. Take the photos.
+7. Organize the photos in a temporal sequence.",0.8727368116378784,0.7595843076705933,0.8122386932373047,Esperimento_Fototropismo_modificato.pdf | p1 | score=0.6257 || Esperimento_Fototropismo_modificato.pdf | p5 | score=0.5986
+What is the objective of the phototropism experiment regarding the growth of plants under different light conditions and the distinction between positive and negative phototropism?,"The objective of the phototropism experiment is to investigate the growth of plants under different light conditions and to distinguish between positive and negative phototropism. Positive phototropism refers to the growth of aerial organs, such as stems, in the direction of light, allowing the plant to maximize light capture for photosynthesis. Negative phototropism, on the other hand, is exhibited by some roots, which grow away from light, allowing them to grow into the soil and absorb water and nutrients.",0.9091076850891113,0.7659040689468384,0.8313843607902527,Esperimento_Fototropismo_modificato.pdf | p1 | score=0.7528 || Esperimento_Fototropismo_modificato.pdf | p5 | score=0.5440
+"I carried out the experiment by exposing all plants to uniform light instead of directing light from one side in the experimental setup: is this correct? If not, what should I correct to perform the experiment properly?","This is not correct. The experimental setup is designed to study the effect of light on plant growth. The light source should be directed from one side of the experimental box to create a gradient of light intensity. By exposing all plants to uniform light, you are not simulating the natural conditions where plants are exposed to varying light intensities. You should correct the setup by directing the light source from one side of the experimental box.",0.8572434186935425,0.7901464700698853,0.822328507900238,Esperimento_Fototropismo_modificato.pdf | p3 | score=0.5812 || estrazione_dna_vegetale_SINTETICO.pdf | p4 | score=0.5240
+"How can I correctly complete the experiment using seeds, soil, boxes, and a controlled light source to observe and measure phototropism in plants accurately?","1. Prepare the seeds, soil, and containers as instructed.
+2. Ensure that the light source is positioned correctly in the experimental box, allowing light to enter only through the side opening.
+3. Maintain the same temperature and watering schedule for both groups.
+4. Measure and record the initial height and orientation of each seedling.
+5. Take photos from above and from the side to document the initial condition.
+6. Place half of the containers in the control box (uniform light) and the other half in the phototropism experiment box.
+7. Ensure that light enters only through the side opening in the experimental box.
+8. Position the lamp so that it illuminates the opening of the experimental box.
+9. Measure and record the light intensity in both boxes.
+10. Establish an identical watering schedule for both groups.
+11. Wait for seed germination (about 3–7 days, depending on the species).
+12. When sprouts reach a height of 2–3 cm, select the most uniform seedlings.
+13. Measure and record the initial height and orientation of each seedling.
+14. Take photos from above and from the side to document the initial condition.
+15. Ensure that both boxes are exposed to the same temperature.
+16. Measure and record the light intensity in both boxes.
+17. Establish an identical watering schedule for both groups.
+18. Wait for the plants to grow and observe their phototropic response.
+19. Measure and record the final height and orientation of each seedling.
+20. Take photos from above and from the side to document the final condition.
+21. Analyze the data collected to determine the effectiveness of the experiment in observing and measuring phototropism in plants accurately.",0.887974202632904,0.8290808200836182,0.8575174808502197,Esperimento_Fototropismo_modificato.pdf | p3 | score=0.6125 || Esperimento_Fototropismo_modificato.pdf | p3 | score=0.6056
+Can you extract a list of the steps required to carry out the caliper experiment and measure the dimensions of a solid object accurately?,"[Fonte: Esperimento_Meccanica_modificato.pdf - pagina 1]
+WHAT A CALIPER IS AND HOW TO USE IT – 10 min 
+Objective of Experiment No. 1 
+This experiment will help students become familiar with the caliper by performing various 
+measurements on an object.  
+ 
+Equipment 
+• 1 × Vernier caliper (plastic, 0.05 mm precision)  
+• 1 × Wooden parallelepiped  
+ 
+Description of the experiment 
+Note: For convenience, this experiment uses a single object from the kit, but it can be 
+repeated with other, possibly more complex solids. 
+• To measure the width of the solid, place one of its bases (both have the same size) between 
+the fixed jaw and the movable jaw of the caliper (see STEP 1). First, observe the main scale: in 
+this case, the value is 4.2, which provides the main part of the measurement. Then observe 
+the vernier scale (in this case, the value is 2), which provides the decimal part. 
+The total measurement is therefore: 
+42 mm + 0.2 mm = 42.2 mm = 4.22 cm 
+• To measure the height of the solid, proceed in the same way: place the longest side between 
+the two jaws of the caliper (see STEP 2). Read the value on the main scale (in this case 10.2) 
+and on the vernier scale (in this case 7). 
+The total measurement is therefore: 
+102 mm + 0.7 mm = 1
+
+
+[Fonte: Esperimento_Meccanica_modificato.pdf - pagina 2]
+advisable to perform measurements on more complex and smaller elements (e.g., bolts and 
+fasteners). 
+ 
+Questions for the teacher 
+1. Consider a parallelepiped with a cylindrical hole that must be filled with a certain 
+liquid. Is it possible to use the caliper as a tool to precisely calculate the amount of 
+liquid required for this purpose? 
+Cylinder volume formula: 
+𝑉 = 𝜋𝑟2ℎ 
+where: 
+o 𝑟= radius of the cylinder base  
+o ℎ= height of the cylinder  
+2. To practice further, measure the main dimensions of at least 5 objects in the 
+laboratory",0.9396387934684753,0.9366100430488586,0.9381219744682312,Esperimento_Meccanica_modificato.pdf | p2 | score=0.6801 || Esperimento_Meccanica_modificato.pdf | p1 | score=0.6538
+"What is the objective of the caliper experiment regarding the measurement of width, length, and depth of an object using a vernier caliper?","The objective of the caliper experiment is to measure the width, length, and depth of an object using a vernier caliper. The experiment aims to help students become familiar with the caliper by performing various measurements on an object. It allows them to observe the level of precision provided by the caliper and understand how to use it correctly.",0.8940489292144775,0.7654011249542236,0.8247383832931519,Esperimento_Meccanica_modificato.pdf | p1 | score=0.7712 || Esperimento_Meccanica_modificato.pdf | p1 | score=0.6576
+"I carried out the experiment by reading only the main scale of the caliper without considering the vernier scale: is this correct? If not, what should I correct to perform the experiment properly?",,0.0,0.0,0.0,Esperimento_Meccanica_modificato.pdf | p1 | score=0.5936 || Esperimento_Meccanica_modificato.pdf | p1 | score=0.5884
+"How can I correctly complete the experiment using a vernier caliper and a solid object to measure dimensions with precision, including reading both the main scale and the vernier scale?","First, the caliper is placed on a flat surface and the jaws are opened. Then, the jaws are placed on the object to be measured, one on each side. The main scale is read first, and the vernier scale is read second. The total measurement is the sum of the two readings. For example, if the main scale reads 10.2 and the vernier scale reads 7, the total measurement would be 10.2 + 7 = 17.2.",0.8731706142425537,0.7774126529693604,0.8225139379501343,Esperimento_Meccanica_modificato.pdf | p1 | score=0.6778 || Esperimento_Meccanica_modificato.pdf | p2 | score=0.6484
+Can you extract a list of the steps required to carry out the plant DNA extraction experiment and obtain visible DNA from plant cells?,"1. Obtain plant cells.
+2. Add liquid nitrogen to the plant cells.
+3. Add extraction buffer to the plant cells.
+4. Add proteinase K to the plant cells.
+5. Incubate the plant cells at 65°C for 30 minutes.
+6. Add chloroform to the plant cells.
+7. Centrifuge the plant cells.
+8. Transfer the aqueous phase to a new tube.
+9. Add ethanol to the aqueous phase.
+10. Centrifuge the aqueous phase.
+11. Remove the supernatant.
+12. Add 70% ethanol to the pellet.
+13. Centrifuge the pellet.
+14. Remove the supernatant.
+15. Dry the pellet.
+16. Resuspend the pellet in TE buffer.
+17. Visualize the DNA using a microscope.",0.8158197999000549,0.7720832824707031,0.7933492660522461,estrazione_dna_vegetale_SINTETICO.pdf | p1 | score=0.6933 || estrazione_dna_vegetale_SINTETICO.pdf | p4 | score=0.6166
+What is the objective of the DNA extraction experiment regarding the isolation and visualization of DNA from plant cells using common laboratory materials?,"The objective of the DNA extraction experiment is to isolate and visualize DNA from plant cells using common laboratory materials. The experiment allows students to observe the structure of plant cells and learn the basic principles of DNA extraction. By following a safe and relatively simple procedure, students can develop practical laboratory skills and apply the scientific method. The experiment also helps students understand the importance of DNA in modern biology and its role in various biological processes.",0.9073606729507446,0.7797959446907043,0.8387557864189148,estrazione_dna_vegetale_SINTETICO.pdf | p1 | score=0.6880 || estrazione_dna_vegetale_SINTETICO.pdf | p4 | score=0.6243
+"I carried out the experiment by using alcohol at room temperature instead of cold alcohol during the DNA precipitation step: is this correct? If not, what should I correct to perform the experiment properly?","I carried out the experiment by using alcohol at room temperature instead of cold alcohol during the DNA precipitation step: is this correct? If not, what should I correct to perform the experiment properly?",0.847721517086029,0.7520738244056702,0.7970383763313293,Manuale_La_Termodinamica_modificato.pdf | p2 | score=0.5960 || estrazione_dna_vegetale_SINTETICO.pdf | p5 | score=0.5862
+"How can I correctly complete the experiment using plant material, detergent, salt, and cold alcohol to extract and observe DNA accurately?","1. Grind the plant material  
+2. Add detergent  
+3. Add salt  
+4. Add cold alcohol  
+5. Filter the mixture  
+6. Observe the DNA with the naked eye",0.894572913646698,0.8097662925720215,0.8500596284866333,estrazione_dna_vegetale_SINTETICO.pdf | p4 | score=0.7361 || estrazione_dna_vegetale_SINTETICO.pdf | p4 | score=0.6781
+Can you extract a list of the steps required to carry out the internal combustion engine experiment and observe how fuel ignition occurs inside a cylinder?,"STEP 1:
+Place the plexiglass cylinder on the work surface in a nearly horizontal position. Using the spray bottle, nebulize 2–3 sprays of alcohol to distribute it evenly on the inner surface of the tube.
+
+STEP 2:
+Close the open end of the cylinder with the sponge stopper.
+
+STEP 3:
+Insert the tip of the gas lighter into the perforated base of the cylinder, then ignite it to generate sparks and trigger combustion.",0.942950963973999,0.8123350739479065,0.8727833032608032,Manuale_Energia_alternativa_modificato.pdf | p1 | score=0.7311 || Manuale_Energia_alternativa_modificato.pdf | p2 | score=0.6047
+What is the objective of the internal combustion engine experiment regarding the functioning of fuel combustion and ignition inside a confined system?,"To verify the operating principle of a gasoline internal combustion engine.
+
+[Fonte: Manuale_Energia_alternativa_modificato.pdf - pagina 3]",0.9113397598266602,0.7789155840873718,0.8399402499198914,Manuale_Energia_alternativa_modificato.pdf | p1 | score=0.8303 || Manuale_Energia_alternativa_modificato.pdf | p2 | score=0.6187
+"I carried out the experiment by increasing the amount of alcohol sprayed inside the cylinder without considering the available oxygen: is this correct? If not, what should I correct to perform the experiment properly?","The experiment is performed by increasing the amount of alcohol sprayed inside the cylinder without considering the available oxygen. It is correct because the question does not specify that the amount of alcohol sprayed inside the cylinder must be increased by considering the available oxygen.
+
+The question asks what happens if the amount of alcohol sprayed inside the cylinder increases. The experiment is performed by increasing the amount of alcohol sprayed inside the cylinder without considering the available oxygen. The question does not specify that the amount of alcohol sprayed inside the cylinder must be increased by considering the available oxygen. Therefore, it is correct to perform the experiment by increasing the amount of alcohol sprayed inside the cylinder without considering the available oxygen.
+
+The question asks what happens if the amount of alcohol sprayed inside the cylinder increases. The experiment is performed by increasing the amount of alcohol sprayed inside the cylinder without considering the available oxygen. The question does not specify that the amount of alcohol sprayed inside the cylinder must be increased by considering the available oxygen. Therefore, it is correct to perform the experiment by increasing the amount of alcohol sprayed inside the cylinder without considering the available oxygen.
+
+The question asks what happens if the amount of alcohol sprayed inside the cylinder increases. The experiment is performed by increasing the amount of alcohol sprayed inside the cylinder without considering the available oxygen. The question does not specify that the amount of alcohol sprayed inside the cylinder must be increased by considering the available oxygen. Therefore, it is correct to perform the experiment by increasing the amount of alcohol sprayed inside the cylinder without considering the available oxygen.
+
+The question asks what happens if the amount of alcohol sprayed inside the cylinder increases. The experiment is performed by increasing the amount of alcohol sprayed inside the cylinder without considering the available oxygen. The question does not specify that the amount of alcohol sprayed inside the cylinder must be increased by considering the available oxygen. Therefore, it is correct to perform the experiment by increasing the amount of alcohol sprayed inside the cylinder without considering the available oxygen.
+
+The question asks what happens if the amount of alcohol sprayed inside the cylinder increases. The experiment is performed by increasing the amount of alcohol sprayed inside the cylinder without considering the available oxygen. The question does not specify that the amount of alcohol sprayed inside the cylinder must be increased by considering the available oxygen. Therefore, it is correct to perform the experiment by increasing the amount of alcohol sprayed inside the cylinder without considering the available oxygen.
+
+The question asks what happens if the amount of alcohol sprayed inside the cylinder increases. The experiment is performed by increasing the amount of alcohol sprayed inside the cylinder without considering the",0.7855378985404968,0.7580488920211792,0.7715486884117126,Manuale_Energia_alternativa_modificato.pdf | p2 | score=0.6260 || Manuale_Energia_alternativa_modificato.pdf | p1 | score=0.5804
+"How can I correctly complete the experiment using a cylinder, alcohol, and a spark source to observe and understand the combustion process accurately?","To ensure a proper combustion process, I can complete the experiment by using a cylinder with a sponge stopper, alcohol, and a spark source. The cylinder should be placed in a horizontal position and the sponge stopper should be used to close the open end. I can then spray 2-3 sprays of alcohol evenly on the inner surface of the tube using a spray bottle. The tip of the spark source should be inserted into the perforated base of the cylinder and then ignited to generate sparks and trigger combustion. By following these steps, I can observe and understand the combustion process accurately.",0.8944947719573975,0.7890663146972656,0.8384794592857361,Manuale_Energia_alternativa_modificato.pdf | p1 | score=0.7219 || Manuale_Energia_alternativa_modificato.pdf | p2 | score=0.6910
+Can you extract a list of the steps required to carry out the distillation experiment and separate alcohol from a water-alcohol mixture?,,0.0,0.0,0.0,Manuale_La_Termodinamica_modificato.pdf | p2 | score=0.6911 || Manuale_La_Termodinamica_modificato.pdf | p1 | score=0.6790
+What is the objective of the distillation experiment regarding the separation of substances based on their different boiling points?,To learn how to build and use a liquid distiller.,0.922252357006073,0.7377200126647949,0.8197292685508728,Manuale_La_Termodinamica_modificato.pdf | p2 | score=0.6834 || Manuale_La_Termodinamica_modificato.pdf | p1 | score=0.6420
+"I carried out the experiment without cooling the U-shaped tube during the distillation process: is this correct? If not, what should I correct to perform the experiment properly?",,0.0,0.0,0.0,Manuale_La_Termodinamica_modificato.pdf | p1 | score=0.6151 || Manuale_La_Termodinamica_modificato.pdf | p2 | score=0.5584
+"How can I correctly complete the experiment using a distillation setup, heat source, and cooling system to separate and collect alcohol from a mixture accurately?",,0.0,0.0,0.0,Manuale_La_Termodinamica_modificato.pdf | p2 | score=0.7439 || Manuale_La_Termodinamica_modificato.pdf | p1 | score=0.7060
+Can you extract a list of the steps required to carry out the flame test experiment and identify different metal ions based on flame color?,"1. Fill a test tube with a salt solution and place it in the beaker with hydrochloric acid.
+2. Dip the platinum wire loop into the solution and touch the flame.
+3. Observe the color of the flame.
+4. Repeat the test with a potassium salt: the flame turns violet (more visible when observed through cobalt blue glass).
+5. With copper sulfate, the flame becomes green.
+6. With a calcium salt, the flame becomes brick red; lithium produces crimson red; barium gives yellow-green; strontium gives intense red.",0.8972629904747009,0.7903836369514465,0.8404389023780823,saggio-fiamma_libro_zanichelli.pdf | p1 | score=0.7393 || saggio-fiamma_libro_zanichelli.pdf | p2 | score=0.7214
+What is the objective of the flame test experiment regarding the identification of metals through their characteristic emission of light?,The objective of the flame test experiment is to identify metals based on their characteristic emission of light.,0.8899780511856079,0.7601197957992554,0.8199391961097717,saggio-fiamma_libro_zanichelli.pdf | p1 | score=0.7936 || saggio-fiamma_libro_zanichelli.pdf | p2 | score=0.6698
+"I carried out the experiment without cleaning the wire loop between testing different metal salts: is this correct? If not, what should I correct to perform the experiment properly?","No, it is not correct. It is necessary to clean the loop between tests to avoid the presence of residues that could affect the results.",0.8807042837142944,0.7579552531242371,0.8147323131561279,saggio-fiamma_libro_zanichelli.pdf | p1 | score=0.6015 || saggio-fiamma_libro_zanichelli.pdf | p2 | score=0.5099
+"How can I correctly complete the experiment using a flame source, metal salts, and a wire loop to accurately observe and distinguish the characteristic colors of different elements?","1. Prepare a solution of hydrochloric acid (HCl) in a beaker.
+2. Using a platinum wire loop or a homemade loop made from nickel-chromium wire, dip the loop into the hydrochloric acid solution to ensure it is clean and free of any contamination.
+3. Using the loop, place a small amount of the metal salt to be tested onto the wire.
+4. Using the loop, transfer the metal salt to the alcohol burner or Bunsen burner flame.
+5. Observe the color of the flame produced by the metal salt.
+6. Repeat steps 3-5 for each metal salt to be tested, ensuring to clean the loop between tests to avoid cross-contamination.
+7. Record the observed flame colors for each metal salt tested.
+
+The experiment should be conducted under strict safety guidelines, ensuring proper ventilation and following all necessary precautions when working with flames and chemicals.",0.861604630947113,0.7911581993103027,0.8248800039291382,saggio-fiamma_libro_zanichelli.pdf | p2 | score=0.7035 || saggio-fiamma_libro_zanichelli.pdf | p1 | score=0.6561
