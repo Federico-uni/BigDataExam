@@ -25,7 +25,7 @@ OUT_DIR = "./ft_llama31_8b_lora"
 os.makedirs(OUT_DIR, exist_ok=True)
 
 
-PDF_DIR = r"C:/Users/Tesisti/Desktop/EN_Dataset_RAG"
+PDF_DIR = r"pdf_path"
 
 EMBED_MODEL = "sentence-transformers/paraphrase-multilingual-mpnet-base-v2"
 
@@ -33,7 +33,7 @@ CHUNK_SIZE = 1200
 CHUNK_OVERLAP = 200
 TOP_K = 2
 MAX_CONTEXT_CHARS = 5000
-OUTPUT_CSV = "C:/Users/Tesisti/Desktop/OUTPUT_EN_Dataset/rag_results_rouge_sDoSampleFALSE_ModelloBase.csv"
+OUTPUT_CSV = "csv_path"
 
 # =========================
 # TRADUZIONE
