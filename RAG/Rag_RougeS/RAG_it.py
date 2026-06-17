@@ -14,10 +14,10 @@ from peft import PeftModel
 # CONFIG MODEL
 # =========================
 BASE_MODEL = "meta-llama/Llama-3.1-8B"
-CHECKPOINT = r"C:/Users/Tesisti/Desktop/ft_llama31_8b_lora/checkpoint-13230"
-TOKENIZER_PATH = r"C:/Users/Tesisti/Desktop/ft_llama31_8b_lora/tokenizer"
+CHECKPOINT = r"checkpoint_path"
+TOKENIZER_PATH = r"tokenizer_path"
 
-PDF_DIR = r"C:/Users/Tesisti/Desktop/Dataset_Rag"
+PDF_DIR = r"rag_path"
 
 EMBED_MODEL = "sentence-transformers/paraphrase-multilingual-mpnet-base-v2"
 
@@ -25,7 +25,7 @@ CHUNK_SIZE = 1200
 CHUNK_OVERLAP = 200
 TOP_K = 2
 MAX_CONTEXT_CHARS = 5000
-OUTPUT_CSV = "C:/Users/Tesisti/Desktop/OUTPUT_EN_Dataset/rag_results_rouge_s_IT_DoSampleFALSE.csv"
+OUTPUT_CSV = "csv_path"
 
 
 
