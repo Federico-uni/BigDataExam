@@ -16,10 +16,10 @@ from bert_score import score as bert_score
 # MODEL CONFIG
 # =========================
 BASE_MODEL = "meta-llama/Llama-3.1-8B"
-CHECKPOINT = r"C:/Users/Tesisti/Desktop/ft_llama31_8b_lora/checkpoint-13230"
-TOKENIZER_PATH = r"C:/Users/Tesisti/Desktop/ft_llama31_8b_lora/tokenizer"
+CHECKPOINT = r"checkpoint_path"
+TOKENIZER_PATH = r"tokenizer path"
 
-PDF_DIR = r"C:/Users/Tesisti/Desktop/Dataset_rag"
+PDF_DIR = r"pdf_path"
 
 EMBED_MODEL = "sentence-transformers/paraphrase-multilingual-mpnet-base-v2"
 
@@ -27,7 +27,7 @@ CHUNK_SIZE = 1200
 CHUNK_OVERLAP = 200
 TOP_K = 2
 MAX_CONTEXT_CHARS = 5000
-OUTPUT_CSV = "C:/Users/Tesisti/Desktop/OUTPUT_IT_Dataset/rag_results_bertscore_doSampleFALSE.csv"
+OUTPUT_CSV = "output_path"
 
 # =========================
 # TRANSLATION
